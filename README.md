@@ -1,9 +1,9 @@
 # Solidus Prismic
 
-Prismic.io Client for use in Solidus based applications. Prismic is a CMS Backend
-that can be used to suplement your site with additional content. That content
-can be updated through Prismic allowing you to make changes to your site without
-a deploy.
+[Prismic.io](https://prismic.io) Client for use in Solidus based applications.
+Prismic is a CMS Backend that can be used to suplement your site with additional
+content. That content can be updated through Prismic allowing you to make changes
+to your site without a deploy.
 
 ## Installation
 
@@ -14,6 +14,8 @@ gem 'solidus_prismic'
 ```
 
 Then, run bundle install.
+
+Create an account and repository at [Prismic.io](https://prismic.io)
 
 After that's done, you need to set additional environment variables:
 ```
