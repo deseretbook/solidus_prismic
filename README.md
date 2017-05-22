@@ -26,6 +26,11 @@ PRISMIC_ACCESS_TOKEN=123FAKE456 # Only required if using a private API or previe
 
 ## Example
 
+_NOTE: This is an example of one way to use Prismic to add content to your sites.
+You can do any number of things as long as you can model the data in Prismic and
+set up a mechanism to render it in your store. This is an example of adding custom
+content to a Product page._
+
 Create a Repeatable Custom Type in Prismic called `Products`
 
 Edit the Product Type using the JSON editor tab on the right and paste this:
