@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.license     = 'BSD-3-Clause'
 
   s.author    = 'Eric Saupe'
-  s.email     = 'eric@sau.pe'
-  s.homepage  = 'http://eric.sau.pe'
+  s.email     = 'esaupe@deseretbook.com'
+  s.homepage  = 'https://www.deseretbook.com'
 
   s.files = Dir["{app,config,db,lib}/**/*", 'LICENSE', 'Rakefile', 'README.md']
   s.test_files = Dir['test/**/*']
