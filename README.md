@@ -154,4 +154,4 @@ bundle
 bundle exec rake
 ```
 
-Copyright (c) 2017 Eric Saupe, released under the New BSD License
+Copyright (c) 2017 Deseret Book, released under the New BSD License
