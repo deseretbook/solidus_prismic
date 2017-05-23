@@ -73,7 +73,7 @@ Hit Save at the top.
 
 Go to your Solidus app
 
-Add `require PrismicHelper` to `Spree::ProductsController`:
+Add `include PrismicHelper` to `Spree::ProductsController`:
 
 ```
 # app/controllers/spree/products_controller_decorator.rb
